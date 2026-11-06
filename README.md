@@ -2,7 +2,9 @@
 
 ![header-gif](assets/header-demo.gif)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TaskoudisDimi&show_icons=true&theme=tokyonight)](https://github.com/TaskoudisDimi)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Turning+ideas+into+software;AI+%E2%80%A2+Web+%E2%80%A2+Graphics;Welcome+to+my+profile" alt="Animated introduction" />
+</p>
 
 Hi — I'm Dimitris Taskoudis, a software engineer focused on AI, web applications, systems programming, and computer graphics. I build practical prototypes, tooling and demos that combine algorithms with clear UX.
 
